@@ -41,7 +41,7 @@ Healthcare is rapidly evolving with advancements in treatments, emerging disease
    ```
 3. **Run Data Processing Script**
    ```bash
-   python data_cleaning.py
+   python cleaning.py
    ```
 4. **Open Power BI for Visualization**
    - Load the processed dataset (`cleaned_data.csv`) into Power BI
